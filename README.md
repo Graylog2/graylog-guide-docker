@@ -1,2 +1,3 @@
-# graylog-guide-docker
-Guide about how to get Docker logs into Graylog
+# Logging from Docker into Graylog
+
+**Work in progress.**
