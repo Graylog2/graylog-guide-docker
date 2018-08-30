@@ -1,3 +1,7 @@
-# Logging from Docker into Graylog
+# running Graylog in Docker 
 
-Please follow this link: https://www.graylog.org/centralize-your-docker-container-logging-with-graylog-native-integration/
+Please follow this link: http://docs.graylog.org/en/stable/pages/installation/docker.html
+
+# From Docker to Graylog
+
+See Docker Documentation: https://docs.docker.com/config/containers/logging/gelf/
